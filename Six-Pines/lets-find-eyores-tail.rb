@@ -2,7 +2,7 @@ require 'pry'
 kanga_roo_address = '../Kanga-And-Roos-House/kanga.txt' # Your changes here!
 piglet_address = 'Piglets-House/piglet.txt'
 rabbit_address = '../Rabbits-Meadow/Rabbits-House/rabbit.txt'
-pooh_address = ''
+pooh_address = '.Heffalump-Trap/Poohs-House/pooh-bear.txt'
 
 # Please do not change any code past this point!
 
