@@ -1,6 +1,6 @@
 require 'pry'
 kanga_roo_address = '../Kanga-And-Roos-House/kanga.txt' # Your changes here!
-piglet_address = ''
+piglet_address = 'Piglets-House/piglet.txt'
 rabbit_address = ''
 pooh_address = ''
 
